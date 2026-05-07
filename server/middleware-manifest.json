@@ -1,0 +1,37 @@
+{
+  "version": 3,
+  "middleware": {
+    "/": {
+      "files": [
+        "server/edge/chunks/ghana-trotro-admin_edge-wrapper_0fc1c8ee.js",
+        "server/edge/chunks/[root-of-the-server]__5a1b2421._.js",
+        "server/edge/chunks/turbopack-ghana-trotro-admin_edge-wrapper_e5a3a6f5.js"
+      ],
+      "name": "middleware",
+      "page": "/",
+      "matchers": [
+        {
+          "regexp": "^(?:\\/(_next\\/data\\/[^/]{1,}))?\\/dashboard(?:\\/((?:[^\\/#\\?]+?)(?:\\/(?:[^\\/#\\?]+?))*))?(\\\\.json)?[\\/#\\?]?$",
+          "originalSource": "/dashboard/:path*"
+        },
+        {
+          "regexp": "^(?:\\/(_next\\/data\\/[^/]{1,}))?\\/login(\\\\.json)?[\\/#\\?]?$",
+          "originalSource": "/login"
+        }
+      ],
+      "wasm": [],
+      "assets": [],
+      "env": {
+        "__NEXT_BUILD_ID": "l5JafnKLg7R5CKW_h7-yd",
+        "NEXT_SERVER_ACTIONS_ENCRYPTION_KEY": "05+7Q2WeKEXDI3GOc0fXsuPsMPRuV2i7vRPUQwq5mpE=",
+        "__NEXT_PREVIEW_MODE_ID": "582466c05f17aa2a78224a32aedcc238",
+        "__NEXT_PREVIEW_MODE_ENCRYPTION_KEY": "e205cffdcf1befa829036c746580252773039d9c68d124b862cbc76487718b32",
+        "__NEXT_PREVIEW_MODE_SIGNING_KEY": "4bf2e294813210dbee68279fd76424643021a3c7a9ec3a9e3bb834007d1bb64a"
+      }
+    }
+  },
+  "sortedMiddleware": [
+    "/"
+  ],
+  "functions": {}
+}

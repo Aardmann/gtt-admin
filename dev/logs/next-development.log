@@ -1,0 +1,1289 @@
+[00:00:02.920] Server  WARN     ⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+[00:00:03.120] Server  LOG      ✓ Ready in 2.5s
+[00:00:22.661] Server  LOG      ○ Compiling / ...
+[00:00:27.464] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:27.885] Browser LOG     Fetching users from database...
+[00:00:28.346] Browser ERROR   {"__isAuthError":true,"code":"refresh_token_not_found","name":"AuthApiError","status":400}
+[00:00:28.751] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[00:00:28.751] Browser LOG     Subscription status: SUBSCRIBED
+[00:00:52.958] Server  LOG     Development mode - skipping auth check
+[00:00:53.973] Browser LOG     Subscription status: CLOSED
+[00:01:00.445] Server  LOG     Development mode - skipping auth check
+[00:01:07.950] Server  LOG     Development mode - skipping auth check
+[00:01:08.876] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:16.328] Server  LOG     Development mode - skipping auth check
+[00:01:16.986] Browser LOG     Fetching users from database...
+[00:01:16.986] Browser LOG     Subscription status: CLOSED
+[00:01:16.987] Browser LOG     Fetching users from database...
+[00:01:17.317] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[00:01:17.317] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[00:01:18.268] Browser LOG     Subscription status: SUBSCRIBED
+[00:01:20.113] Server  LOG     Development mode - skipping auth check
+[00:01:22.760] Browser LOG     Subscription status: CLOSED
+[00:01:23.726] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:01:23.726] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:01:23.726] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:01:23.726] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:01:23.726] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:01:23.726] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:01:23.726] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:01:23.726] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:01:23.726] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:01:23.726] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:01:30.303] Server  LOG     Development mode - skipping auth check
+[00:01:35.438] Server  LOG     Development mode - skipping auth check
+[00:01:44.851] Server  LOG     Development mode - skipping auth check
+[00:02:10.644] Server  LOG     Development mode - skipping auth check
+[00:02:11.690] Server  LOG     Development mode - skipping auth check
+[00:02:13.702] Server  LOG     Development mode - skipping auth check
+[00:02:14.249] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:28.825] Server  LOG     Development mode - skipping auth check
+[00:02:29.199] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:53.212] Server  WARN     ⚠ Cross origin request detected from 172.20.10.2 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+[00:02:53.482] Browser LOG     Fetching users from database...
+[00:02:54.443] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[00:02:54.806] Browser LOG     Subscription status: SUBSCRIBED
+[00:12:24.324] Browser LOG     Fetching users from database...
+[00:12:26.423] Server  LOG     Development mode - skipping auth check
+[00:12:27.245] Browser LOG     Subscription status: CLOSED
+[00:13:06.564] Server  LOG     Development mode - skipping auth check
+[00:13:24.511] Browser ERROR   Failed to fetch routes: {"code":"","details":"","hint":"","message":"TypeError: Load failed"}
+[00:13:24.511] Browser WARN    Join fetch failed, trying simple fetch: TypeError: Load failed
+[00:13:26.950] Browser ERROR   Failed to fetch total stops: {"code":"","details":"","hint":"","message":"TypeError: Load failed"}
+[00:13:26.950] Browser ERROR   Failed to fetch total stops: {"code":"","details":"","hint":"","message":"TypeError: Load failed"}
+[00:14:25.882] Browser ERROR   Failed to fetch users: {"code":"","details":"","hint":"","message":"TypeError: Load failed"}
+[00:21:18.309] Server  LOG     Development mode - skipping auth check
+[00:22:08.611] Server  LOG     Development mode - skipping auth check
+[00:22:11.612] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:22:11.612] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:22:11.612] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:22:11.612] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:22:11.612] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:22:11.612] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:22:11.612] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:22:11.612] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:22:11.612] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:22:11.612] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:22:31.534] Server  LOG     Development mode - skipping auth check
+[00:22:32.715] Server  LOG     Development mode - skipping auth check
+[00:22:34.217] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:22:34.217] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:22:34.217] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:22:34.217] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:22:34.217] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:22:34.217] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:22:34.217] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:22:34.217] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:22:34.217] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:22:34.217] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:22:55.593] Server  LOG     Development mode - skipping auth check
+[00:22:57.607] Server  LOG     Development mode - skipping auth check
+[00:22:59.035] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:22:59.035] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:22:59.035] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:22:59.035] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:22:59.036] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:22:59.036] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:22:59.036] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:22:59.036] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:22:59.036] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:22:59.036] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:23:03.439] Server  LOG     Development mode - skipping auth check
+[00:23:04.297] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:23:05.997] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:23:05.997] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:23:05.997] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:23:05.997] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:23:05.997] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:23:05.997] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:23:05.997] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:23:05.997] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:23:05.997] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:23:05.997] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[00:23:20.371] Server  LOG     Development mode - skipping auth check
+[00:23:34.664] Server  LOG     Development mode - skipping auth check
+[00:23:35.978] Server  LOG     Development mode - skipping auth check
+[00:23:36.148] Browser LOG     Fetching all users from database...
+[00:23:36.148] Browser LOG     Fetching all users from database...
+[00:23:37.003] Browser LOG     Found 8 users in database
+[00:23:37.336] Browser LOG     Found 8 users in database
+[00:23:37.778] Browser LOG     Combined users: 8
+[00:23:38.096] Browser LOG     Combined users: 8
+[00:23:40.504] Server  LOG     Development mode - skipping auth check
+[00:23:46.234] Server  LOG     Development mode - skipping auth check
+[00:23:47.983] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:01.723] Server  LOG     Development mode - skipping auth check
+[07:51:16.640] Browser ERROR   {}
+[07:51:16.896] Browser ERROR   {}
+[07:51:17.034] Browser ERROR   {}
+[07:51:17.841] Browser ERROR   {}
+[07:51:19.450] Browser ERROR   {}
+[07:51:22.685] Browser ERROR   {}
+[07:51:29.088] Browser ERROR   {}
+[07:51:41.897] Browser ERROR   {}
+[07:51:41.897] Browser ERROR   {"__isAuthError":true,"name":"AuthRetryableFetchError","status":0}
+[07:51:46.256] Browser ERROR   {}
+[07:51:46.459] Browser ERROR   {}
+[07:51:46.869] Browser ERROR   {}
+[07:51:47.691] Browser ERROR   {}
+[07:51:49.301] Browser ERROR   {}
+[07:51:52.508] Browser ERROR   {}
+[07:51:58.913] Browser ERROR   {}
+[07:52:11.724] Browser ERROR   {}
+[07:52:16.247] Browser ERROR   {}
+[07:52:16.451] Browser ERROR   {}
+[07:52:16.866] Browser ERROR   {}
+[07:52:17.679] Browser ERROR   {}
+[07:52:19.283] Browser ERROR   {}
+[07:52:22.492] Browser ERROR   {}
+[07:52:28.904] Browser ERROR   {}
+[07:52:41.723] Browser ERROR   {}
+[07:52:46.256] Browser ERROR   {}
+[07:52:46.465] Browser ERROR   {}
+[07:52:46.878] Browser ERROR   {}
+[07:52:47.688] Browser ERROR   {}
+[07:52:49.294] Browser ERROR   {}
+[07:52:52.509] Browser ERROR   {}
+[07:52:58.917] Browser ERROR   {}
+[07:53:11.728] Browser ERROR   {}
+[07:53:16.255] Browser ERROR   {}
+[07:53:16.474] Browser ERROR   {}
+[07:53:16.880] Browser ERROR   {}
+[07:53:17.691] Browser ERROR   {}
+[07:53:19.314] Browser ERROR   {}
+[07:53:22.520] Browser ERROR   {}
+[07:53:28.931] Browser ERROR   {}
+[07:53:41.753] Browser ERROR   {}
+[07:53:46.257] Browser ERROR   {}
+[07:53:46.462] Browser ERROR   {}
+[07:53:46.884] Browser ERROR   {}
+[07:53:47.706] Browser ERROR   {}
+[07:53:49.327] Browser ERROR   {}
+[07:53:52.532] Browser ERROR   {}
+[07:53:58.953] Browser ERROR   {}
+[07:54:11.766] Browser ERROR   {}
+[07:54:16.258] Browser ERROR   {}
+[07:54:16.464] Browser ERROR   {}
+[07:54:16.868] Browser ERROR   {}
+[07:54:17.691] Browser ERROR   {}
+[07:54:19.308] Browser ERROR   {}
+[07:54:22.525] Browser ERROR   {}
+[07:54:28.933] Browser ERROR   {}
+[07:54:41.742] Browser ERROR   {}
+[08:03:25.784] Browser ERROR   {}
+[08:03:25.987] Browser ERROR   {}
+[08:03:26.398] Browser ERROR   {}
+[08:03:27.203] Browser ERROR   {}
+[08:03:28.914] Browser ERROR   {}
+[08:03:32.122] Browser ERROR   {}
+[08:03:38.529] Browser ERROR   {}
+[08:03:51.341] Browser ERROR   {}
+[08:03:51.341] Browser ERROR   {"__isAuthError":true,"name":"AuthRetryableFetchError","status":0}
+[08:03:55.786] Browser ERROR   {}
+[08:03:55.996] Browser ERROR   {}
+[08:03:56.404] Browser ERROR   {}
+[08:03:57.209] Browser ERROR   {}
+[08:03:58.822] Browser ERROR   {}
+[08:04:02.026] Browser ERROR   {}
+[08:04:08.434] Browser ERROR   {}
+[08:04:21.244] Browser ERROR   {}
+[08:04:25.787] Browser ERROR   {}
+[08:04:25.996] Browser ERROR   {}
+[08:04:26.408] Browser ERROR   {}
+[08:04:27.215] Browser ERROR   {}
+[08:04:28.823] Browser ERROR   {}
+[08:04:32.028] Browser ERROR   {}
+[08:04:38.435] Browser ERROR   {}
+[08:04:51.242] Browser ERROR   {}
+[08:04:55.789] Browser ERROR   {}
+[08:04:56.000] Browser ERROR   {}
+[08:04:56.415] Browser ERROR   {}
+[08:04:57.220] Browser ERROR   {}
+[08:04:58.829] Browser ERROR   {}
+[08:05:02.035] Browser ERROR   {}
+[08:05:08.449] Browser ERROR   {}
+[08:05:21.255] Browser ERROR   {}
+[08:05:25.789] Browser ERROR   {}
+[08:05:25.995] Browser ERROR   {}
+[08:05:26.404] Browser ERROR   {}
+[08:05:27.215] Browser ERROR   {}
+[08:05:28.830] Browser ERROR   {}
+[08:05:32.042] Browser ERROR   {}
+[08:05:38.450] Browser ERROR   {}
+[08:05:51.262] Browser ERROR   {}
+[08:05:55.790] Browser ERROR   {}
+[08:05:56.000] Browser ERROR   {}
+[08:05:56.405] Browser ERROR   {}
+[08:05:57.215] Browser ERROR   {}
+[08:05:58.825] Browser ERROR   {}
+[08:06:02.028] Browser ERROR   {}
+[08:06:08.443] Browser ERROR   {}
+[08:06:21.251] Browser ERROR   {}
+[08:06:25.797] Browser ERROR   {}
+[08:06:26.004] Browser ERROR   {}
+[08:06:26.416] Browser ERROR   {}
+[08:06:28.318] Browser ERROR   {}
+[08:06:30.329] Browser ERROR   {}
+[08:06:33.538] Browser ERROR   {}
+[08:06:39.949] Browser ERROR   {}
+[08:06:52.759] Browser ERROR   {}
+[10:05:53.950] Browser ERROR   {}
+[10:05:54.164] Browser ERROR   {}
+[10:05:54.568] Browser ERROR   {}
+[10:05:55.380] Browser ERROR   {}
+[10:05:56.984] Browser ERROR   {}
+[10:06:00.199] Browser ERROR   {}
+[10:06:06.601] Browser ERROR   {}
+[10:06:19.414] Browser ERROR   {}
+[10:06:19.414] Browser ERROR   {"__isAuthError":true,"name":"AuthRetryableFetchError","status":0}
+[10:06:23.904] Browser ERROR   {}
+[10:06:24.121] Browser ERROR   {}
+[10:06:24.537] Browser ERROR   {}
+[10:06:25.343] Browser ERROR   {}
+[10:06:26.951] Browser ERROR   {}
+[10:06:30.161] Browser ERROR   {}
+[10:06:36.572] Browser ERROR   {}
+[10:06:49.377] Browser ERROR   {}
+[10:06:53.906] Browser ERROR   {}
+[10:06:54.119] Browser ERROR   {}
+[10:06:54.525] Browser ERROR   {}
+[10:06:55.332] Browser ERROR   {}
+[10:06:56.948] Browser ERROR   {}
+[10:07:00.156] Browser ERROR   {}
+[10:07:06.559] Browser ERROR   {}
+[10:07:19.370] Browser ERROR   {}
+[10:07:23.924] Browser ERROR   {}
+[10:07:24.130] Browser ERROR   {}
+[10:07:24.533] Browser ERROR   {}
+[10:07:25.344] Browser ERROR   {}
+[10:07:26.962] Browser ERROR   {}
+[10:07:30.167] Browser ERROR   {}
+[10:07:36.576] Browser ERROR   {}
+[10:07:49.382] Browser ERROR   {}
+[10:07:53.916] Browser ERROR   {}
+[10:07:54.123] Browser ERROR   {}
+[10:07:54.543] Browser ERROR   {}
+[10:07:55.362] Browser ERROR   {}
+[10:07:56.978] Browser ERROR   {}
+[10:08:00.185] Browser ERROR   {}
+[10:08:06.587] Browser ERROR   {}
+[10:08:19.400] Browser ERROR   {}
+[10:08:23.918] Browser ERROR   {}
+[10:08:24.131] Browser ERROR   {}
+[10:08:24.543] Browser ERROR   {}
+[10:08:25.350] Browser ERROR   {}
+[10:08:26.964] Browser ERROR   {}
+[10:08:30.177] Browser ERROR   {}
+[10:08:36.584] Browser ERROR   {}
+[10:08:49.392] Browser ERROR   {}
+[10:08:53.926] Browser ERROR   {}
+[10:08:54.127] Browser ERROR   {}
+[10:08:54.543] Browser ERROR   {}
+[10:08:55.359] Browser ERROR   {}
+[10:08:56.964] Browser ERROR   {}
+[10:09:00.175] Browser ERROR   {}
+[10:09:07.484] Browser ERROR   {}
+[10:09:20.503] Browser ERROR   {}
+[12:23:58.024] Browser ERROR   {}
+[12:23:58.233] Browser ERROR   {}
+[12:23:58.639] Browser ERROR   {}
+[12:23:59.451] Browser ERROR   {}
+[12:24:01.060] Browser ERROR   {}
+[12:24:04.279] Browser ERROR   {}
+[12:24:10.690] Browser ERROR   {}
+[12:24:23.496] Browser ERROR   {}
+[12:24:23.496] Browser ERROR   {"__isAuthError":true,"name":"AuthRetryableFetchError","status":0}
+[12:24:23.496] Browser ERROR   {}
+[12:24:23.702] Browser ERROR   {}
+[12:24:24.116] Browser ERROR   {}
+[12:24:24.922] Browser ERROR   {}
+[12:24:26.524] Browser ERROR   {}
+[12:24:29.736] Browser ERROR   {}
+[12:24:37.084] Browser ERROR   {}
+[12:24:49.901] Browser ERROR   {}
+[12:24:49.901] Browser ERROR   {"__isAuthError":true,"name":"AuthRetryableFetchError","status":0}
+[12:24:49.901] Browser ERROR   {}
+[12:24:50.907] Browser ERROR   {}
+[12:24:51.911] Browser ERROR   {}
+[12:24:52.922] Browser ERROR   {}
+[12:24:54.931] Browser ERROR   {}
+[12:24:58.145] Browser ERROR   {}
+[12:25:04.550] Browser ERROR   {}
+[12:25:17.968] Browser ERROR   {}
+[12:25:17.968] Browser ERROR   {}
+[12:25:18.969] Browser ERROR   {}
+[12:25:19.969] Browser ERROR   {}
+[12:25:20.974] Browser ERROR   {}
+[12:25:22.989] Browser ERROR   {}
+[12:25:26.192] Browser ERROR   {}
+[12:25:32.603] Browser ERROR   {}
+[12:25:45.414] Browser ERROR   {}
+[12:29:51.436] Browser ERROR   {}
+[12:29:51.652] Browser ERROR   {}
+[12:29:52.058] Browser ERROR   {}
+[12:29:52.867] Browser ERROR   {}
+[12:29:54.484] Browser ERROR   {}
+[12:29:57.692] Browser ERROR   {}
+[12:30:04.098] Browser ERROR   {}
+[12:30:16.901] Browser ERROR   {}
+[12:30:16.901] Browser ERROR   {"__isAuthError":true,"name":"AuthRetryableFetchError","status":0}
+[12:30:21.444] Browser ERROR   {}
+[12:30:21.657] Browser ERROR   {}
+[12:30:22.067] Browser ERROR   {}
+[12:30:22.878] Browser ERROR   {}
+[12:30:24.484] Browser ERROR   {}
+[12:30:27.694] Browser ERROR   {}
+[12:30:34.104] Browser ERROR   {}
+[12:30:46.914] Browser ERROR   {}
+[12:30:51.444] Browser ERROR   {}
+[12:30:51.648] Browser ERROR   {}
+[12:30:52.060] Browser ERROR   {}
+[12:30:52.870] Browser ERROR   {}
+[12:30:54.477] Browser ERROR   {}
+[12:30:57.684] Browser ERROR   {}
+[12:31:04.091] Browser ERROR   {}
+[12:31:16.898] Browser ERROR   {}
+[12:31:21.448] Browser ERROR   {}
+[12:31:21.657] Browser ERROR   {}
+[12:31:22.066] Browser ERROR   {}
+[12:31:22.871] Browser ERROR   {}
+[12:31:24.479] Browser ERROR   {}
+[12:31:27.689] Browser ERROR   {}
+[12:31:34.098] Browser ERROR   {}
+[12:31:46.911] Browser ERROR   {}
+[12:31:51.450] Browser ERROR   {}
+[12:31:51.662] Browser ERROR   {}
+[12:31:52.070] Browser ERROR   {}
+[12:31:52.879] Browser ERROR   {}
+[12:31:54.484] Browser ERROR   {}
+[12:31:57.695] Browser ERROR   {}
+[12:32:04.107] Browser ERROR   {}
+[12:32:16.913] Browser ERROR   {}
+[12:32:21.450] Browser ERROR   {}
+[12:32:21.658] Browser ERROR   {}
+[12:32:22.066] Browser ERROR   {}
+[12:32:22.877] Browser ERROR   {}
+[12:32:24.484] Browser ERROR   {}
+[12:32:27.696] Browser ERROR   {}
+[12:32:34.109] Browser ERROR   {}
+[12:32:46.915] Browser ERROR   {}
+[12:32:51.457] Browser ERROR   {}
+[12:32:51.664] Browser ERROR   {}
+[12:32:52.079] Browser ERROR   {}
+[12:32:52.888] Browser ERROR   {}
+[12:32:54.494] Browser ERROR   {}
+[12:32:57.700] Browser ERROR   {}
+[12:33:04.108] Browser ERROR   {}
+[12:33:16.920] Browser ERROR   {}
+[12:33:21.454] Browser ERROR   {}
+[12:33:21.659] Browser ERROR   {}
+[12:33:22.069] Browser ERROR   {}
+[12:33:22.874] Browser ERROR   {}
+[12:33:24.490] Browser ERROR   {}
+[12:33:28.930] Browser ERROR   {}
+[12:33:35.335] Browser ERROR   {}
+[12:33:48.146] Browser ERROR   {}
+[14:17:21.822] Browser ERROR   {}
+[14:17:22.034] Browser ERROR   {}
+[14:17:22.440] Browser ERROR   {}
+[14:17:23.246] Browser ERROR   {}
+[14:17:24.852] Browser ERROR   {}
+[14:17:28.059] Browser ERROR   {}
+[14:17:34.473] Browser ERROR   {}
+[14:17:48.183] Browser ERROR   {}
+[14:17:48.183] Browser ERROR   {"__isAuthError":true,"name":"AuthRetryableFetchError","status":0}
+[14:18:16.602] Browser ERROR   {}
+[14:18:16.718] Browser ERROR   {}
+[14:18:17.126] Browser ERROR   {}
+[14:18:17.940] Browser ERROR   {}
+[14:18:19.540] Browser ERROR   {}
+[14:18:22.748] Browser ERROR   {}
+[14:18:29.158] Browser ERROR   {}
+[14:18:43.238] Browser ERROR   {}
+[14:18:43.238] Browser ERROR   {"__isAuthError":true,"name":"AuthRetryableFetchError","status":0}
+[19:37:42.800] Browser ERROR   {}
+[19:37:43.301] Browser ERROR   {}
+[19:37:45.604] Browser ERROR   {}
+[19:37:46.609] Browser ERROR   {}
+[19:37:48.627] Browser ERROR   {}
+[19:37:50.951] Browser ERROR   {}
+[19:37:58.262] Browser ERROR   {}
+[19:38:11.470] Browser ERROR   {}
+[19:38:11.470] Browser ERROR   {"__isAuthError":true,"name":"AuthRetryableFetchError","status":0}
+[19:38:11.474] Browser ERROR   {}
+[19:38:12.488] Browser ERROR   {}
+[19:38:13.497] Browser ERROR   {}
+[19:38:14.507] Browser ERROR   {}
+[19:38:16.543] Browser ERROR   {}
+[19:43:03.431] Server  LOG     Development mode - skipping auth check
+[19:43:08.451] Server  LOG     Development mode - skipping auth check
+[19:43:10.514] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:43:10.514] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:43:10.514] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:43:10.514] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:43:10.514] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:43:10.514] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:43:10.514] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:43:10.514] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:43:10.514] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:43:10.514] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:43:12.330] Server  LOG     Development mode - skipping auth check
+[19:44:37.535] Server  LOG      ✓ Compiled in 2.7s
+[19:51:27.925] Server  LOG     Development mode - skipping auth check
+[19:51:33.338] Server  LOG     Development mode - skipping auth check
+[19:51:51.361] Server  LOG     Development mode - skipping auth check
+[19:51:52.681] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:51:52.681] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:51:52.681] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:51:52.681] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:51:52.681] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:51:52.681] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:51:52.681] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:51:52.681] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:51:52.681] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:51:52.681] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:53:05.211] Server  LOG      ✓ Compiled in 239ms
+[19:53:32.236] Server  LOG      ✓ Compiled in 653ms
+[19:53:42.578] Server  LOG     Development mode - skipping auth check
+[19:54:06.819] Server  LOG     Development mode - skipping auth check
+[19:54:07.538] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[19:54:24.560] Server  LOG     Development mode - skipping auth check
+[19:54:24.931] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[19:57:13.989] Server  LOG     Development mode - skipping auth check
+[19:57:15.573] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:57:15.573] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:57:15.573] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:57:15.573] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:57:15.573] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:57:15.573] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:57:15.573] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:57:15.573] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:57:15.573] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:57:15.573] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:57:16.241] Server  LOG     Development mode - skipping auth check
+[19:57:20.138] Server  LOG     Development mode - skipping auth check
+[19:57:20.319] Browser LOG     Fetching users from database...
+[19:57:20.319] Browser LOG     Subscription status: CLOSED
+[19:57:20.319] Browser LOG     Fetching users from database...
+[19:57:21.009] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[19:57:21.525] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[19:57:22.319] Browser LOG     Subscription status: SUBSCRIBED
+[19:57:29.801] Server  LOG     Development mode - skipping auth check
+[19:57:29.983] Browser LOG     Subscription status: CLOSED
+[19:57:29.983] Browser LOG     Fetching all users from database...
+[19:57:29.983] Browser LOG     Fetching all users from database...
+[19:57:30.541] Browser LOG     Found 8 users in database
+[19:57:30.669] Browser LOG     Found 8 users in database
+[19:57:30.890] Browser LOG     Combined users: 8
+[19:57:31.094] Browser LOG     Combined users: 8
+[19:57:32.868] Server  LOG     Development mode - skipping auth check
+[19:57:35.035] Server  LOG     Development mode - skipping auth check
+[19:57:38.474] Server  LOG     Development mode - skipping auth check
+[19:57:43.453] Server  LOG     Development mode - skipping auth check
+[19:57:44.539] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:57:44.539] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:57:44.539] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:57:44.539] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:57:44.539] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:57:44.539] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:57:44.539] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:57:44.539] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:57:44.539] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:57:44.539] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[19:57:49.555] Server  LOG     Development mode - skipping auth check
+[20:00:55.272] Server  LOG     Development mode - skipping auth check
+[20:00:56.474] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:00:56.474] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:00:56.474] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:00:56.474] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:00:56.474] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:00:56.474] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:00:56.474] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:00:56.474] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:00:56.474] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:00:56.474] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:00:58.152] Server  LOG     Development mode - skipping auth check
+[20:01:06.238] Server  LOG     Development mode - skipping auth check
+[20:01:07.310] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:01:07.310] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:01:07.310] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:01:07.310] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:01:07.310] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:01:07.310] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:01:07.310] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:01:07.310] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:01:07.310] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:01:07.310] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:05:16.645] Server  LOG      ✓ Compiled in 970ms
+[20:06:47.017] Server  LOG      ✓ Compiled in 270ms
+[20:07:04.279] Server  LOG      ✓ Compiled in 2.2s
+[20:07:05.441] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:07:05.441] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:07:05.441] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:07:05.441] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:07:05.441] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:07:05.441] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:07:05.441] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:07:05.441] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:07:05.441] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:07:05.441] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:07:33.049] Server  LOG     Development mode - skipping auth check
+[20:07:45.774] Server  LOG     Development mode - skipping auth check
+[20:07:46.426] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[20:07:55.864] Server  LOG     Development mode - skipping auth check
+[20:07:56.236] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[20:10:03.331] Server  LOG     Development mode - skipping auth check
+[20:10:03.498] Browser LOG     Fetching users from database...
+[20:10:03.498] Browser LOG     Subscription status: CLOSED
+[20:10:03.498] Browser LOG     Fetching users from database...
+[20:10:04.122] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[20:10:04.122] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[20:10:04.844] Browser LOG     Subscription status: SUBSCRIBED
+[20:10:28.118] Server  LOG     Development mode - skipping auth check
+[20:10:28.292] Browser LOG     Subscription status: CLOSED
+[20:10:31.635] Server  LOG     Development mode - skipping auth check
+[20:10:31.786] Browser LOG     Fetching users from database...
+[20:10:31.786] Browser LOG     Subscription status: CLOSED
+[20:10:31.786] Browser LOG     Fetching users from database...
+[20:10:32.329] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[20:10:32.329] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[20:10:32.329] Browser LOG     Subscription status: SUBSCRIBED
+[20:12:45.012] Server  LOG     Development mode - skipping auth check
+[20:12:45.357] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[20:12:45.733] Browser LOG     Fetching users from database...
+[20:12:45.944] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[20:12:46.446] Browser LOG     Subscription status: SUBSCRIBED
+[20:15:22.154] Server  LOG     Development mode - skipping auth check
+[20:15:22.329] Browser LOG     Subscription status: CLOSED
+[20:15:25.575] Browser LOG     Fetching users from database...
+[20:15:25.575] Browser LOG     Subscription status: CLOSED
+[20:15:25.575] Browser LOG     Fetching users from database...
+[20:15:26.125] Browser LOG     Subscription status: SUBSCRIBED
+[20:15:26.125] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[20:15:26.226] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[20:17:46.309] Server  LOG     Development mode - skipping auth check
+[20:17:46.482] Browser LOG     Subscription status: CLOSED
+[20:19:35.975] Server  LOG      ✓ Compiled in 853ms
+[20:19:41.413] Server  LOG     Development mode - skipping auth check
+[20:19:41.863] Browser LOG     Fetching users from database...
+[20:19:41.863] Browser LOG     Subscription status: CLOSED
+[20:19:41.863] Browser LOG     Fetching users from database...
+[20:19:42.404] Browser LOG     Subscription status: SUBSCRIBED
+[20:19:42.531] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[20:19:42.656] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[20:20:11.998] Server  LOG      ✓ Compiled in 422ms
+[20:20:29.028] Server  LOG      ✓ Compiled in 362ms
+[20:20:31.366] Server  LOG     Development mode - skipping auth check
+[20:20:32.123] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[20:20:32.588] Browser LOG     Fetching users from database...
+[20:20:32.800] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[20:20:33.417] Browser LOG     Subscription status: SUBSCRIBED
+[20:26:52.664] Server  LOG      ✓ Compiled in 293ms
+[20:29:16.240] Server  LOG      ✓ Compiled in 360ms
+[20:29:16.872] Browser ERROR   ./ghana-trotro-admin/components/dashboard/StatsCards.tsx:54:50
+Parsing ecmascript source code failed
+  52 |         value={stats.totalRoutes.toLocaleString()}
+  53 |         sub={`${stats.pendingRoutes} pending approval`}
+> 54 |         sub={`${stats.rejectedRoutes? '' : {stats.pendingRoute}} rejected
+     |                                                  ^
+  55 |         subColor={stats.pendingRoutes > 0 ? 'text-amber-500' : 'text-gray-400'}
+  56 |         icon={<FiMap />}
+  57 |         iconBg="bg-violet-50"
+
+Expected a semicolon
+
+Import traces:
+  Client Component Browser:
+    ./ghana-trotro-admin/components/dashboard/StatsCards.tsx [Client Component Browser]
+    ./ghana-trotro-admin/app/page.tsx [Client Component Browser]
+    ./ghana-trotro-admin/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./ghana-trotro-admin/components/dashboard/StatsCards.tsx [Client Component SSR]
+    ./ghana-trotro-admin/app/page.tsx [Client Component SSR]
+    ./ghana-trotro-admin/app/page.tsx [Server Component]
+[20:32:34.784] Server  LOG     Development mode - skipping auth check
+[20:32:35.118] Server  LOG     Development mode - skipping auth check
+[20:32:36.693] Server  LOG     Development mode - skipping auth check
+[20:32:37.231] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[20:32:37.513] Browser LOG     Fetching users from database...
+[20:32:38.036] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[20:32:38.986] Browser LOG     Subscription status: SUBSCRIBED
+[20:32:40.458] Server  LOG     Development mode - skipping auth check
+[20:32:41.098] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[20:32:41.151] Browser LOG     Fetching users from database...
+[20:32:41.503] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[20:32:42.415] Browser LOG     Subscription status: SUBSCRIBED
+[20:33:10.606] Server  LOG      ✓ Compiled in 314ms
+[20:33:14.934] Server  LOG     Development mode - skipping auth check
+[20:33:15.637] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[20:33:16.027] Browser LOG     Fetching users from database...
+[20:33:16.239] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[20:33:16.830] Browser LOG     Subscription status: SUBSCRIBED
+[20:33:18.006] Server  LOG     Development mode - skipping auth check
+[20:33:18.271] Server  LOG     Development mode - skipping auth check
+[20:33:18.502] Server  LOG     Development mode - skipping auth check
+[20:33:18.571] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[20:33:18.714] Server  LOG     Development mode - skipping auth check
+[20:33:18.826] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[20:33:18.951] Server  LOG     Development mode - skipping auth check
+[20:33:19.130] Server  LOG     Development mode - skipping auth check
+[20:33:19.339] Server  LOG     Development mode - skipping auth check
+[20:33:19.443] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[20:33:19.553] Server  LOG     Development mode - skipping auth check
+[20:33:19.734] Server  LOG     Development mode - skipping auth check
+[20:33:20.062] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[20:33:20.528] Browser LOG     Fetching users from database...
+[20:33:20.867] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[20:33:21.742] Browser LOG     Subscription status: SUBSCRIBED
+[20:33:27.117] Server  LOG      ✓ Compiled in 271ms
+[20:33:28.968] Server  LOG     Development mode - skipping auth check
+[20:33:29.619] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[20:33:30.004] Browser LOG     Fetching users from database...
+[20:33:30.320] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[20:33:30.862] Browser LOG     Subscription status: SUBSCRIBED
+[20:33:34.855] Server  LOG      ✓ Compiled in 194ms
+[20:34:21.350] Server  LOG      ✓ Compiled in 204ms
+[20:34:55.935] Server  LOG      ✓ Compiled in 164ms
+[20:35:34.213] Server  LOG     Development mode - skipping auth check
+[20:35:34.592] Browser LOG     Subscription status: CLOSED
+[20:35:39.693] Browser ERROR   [updateReportStatus] 0 rows updated — RLS is blocking the write.
+Fix: run this in your Supabase SQL editor:
+
+ALTER TABLE reports ENABLE ROW LEVEL SECURITY;
+CREATE POLICY "admins_can_update_reports"
+  ON reports FOR UPDATE TO authenticated
+  USING (true) WITH CHECK (true);
+
+[20:40:59.923] Server  LOG     Development mode - skipping auth check
+[20:41:00.499] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[20:41:07.217] Server  LOG     Development mode - skipping auth check
+[20:41:07.577] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[20:41:22.324] Server  LOG     Development mode - skipping auth check
+[20:41:23.700] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:41:23.700] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:41:23.700] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:41:23.700] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:41:23.700] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:41:23.700] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:41:23.700] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:41:23.700] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:41:23.700] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:41:23.700] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:42:25.857] Server  LOG     Development mode - skipping auth check
+[20:42:26.250] Browser LOG     Fetching users from database...
+[20:42:26.250] Browser LOG     Subscription status: CLOSED
+[20:42:26.250] Browser LOG     Fetching users from database...
+[20:42:26.755] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[20:42:26.755] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[20:42:27.746] Browser LOG     Subscription status: SUBSCRIBED
+[20:42:35.743] Server  LOG     Development mode - skipping auth check
+[20:42:35.925] Browser LOG     Subscription status: CLOSED
+[20:42:35.925] Browser LOG     Fetching all users from database...
+[20:42:35.925] Browser LOG     Fetching all users from database...
+[20:42:36.305] Browser LOG     Found 8 users in database
+[20:42:36.524] Browser LOG     Found 8 users in database
+[20:42:36.524] Browser LOG     Combined users: 8
+[20:42:36.638] Browser LOG     Combined users: 8
+[20:42:41.337] Server  LOG     Development mode - skipping auth check
+[20:42:41.482] Browser LOG     Fetching users from database...
+[20:42:41.482] Browser LOG     Subscription status: CLOSED
+[20:42:41.482] Browser LOG     Fetching users from database...
+[20:42:41.843] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[20:42:42.045] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[20:42:42.046] Browser LOG     Subscription status: SUBSCRIBED
+[20:42:45.160] Server  LOG     Development mode - skipping auth check
+[20:42:45.312] Browser LOG     Subscription status: CLOSED
+[20:42:45.312] Browser LOG     Fetching all users from database...
+[20:42:45.312] Browser LOG     Fetching all users from database...
+[20:42:45.853] Browser LOG     Found 8 users in database
+[20:42:45.958] Browser LOG     Found 8 users in database
+[20:42:45.958] Browser LOG     Combined users: 8
+[20:42:46.164] Browser LOG     Combined users: 8
+[20:43:10.091] Server  LOG     Development mode - skipping auth check
+[20:43:18.626] Server  LOG     Development mode - skipping auth check
+[20:43:22.358] Server  LOG     Development mode - skipping auth check
+[20:43:38.664] Server  LOG     Development mode - skipping auth check
+[20:43:40.973] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:43:40.973] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:43:40.973] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:43:40.973] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:43:40.973] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:43:40.973] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:43:40.973] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:43:40.973] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:43:40.973] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:43:40.973] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:45:20.217] Server  LOG     Development mode - skipping auth check
+[20:45:21.699] Server  LOG     Development mode - skipping auth check
+[20:45:24.703] Server  LOG      ○ Compiling /dashboard/notifications/create ...
+[20:45:34.129] Server  LOG     Development mode - skipping auth check
+[20:45:34.131] Server  LOG     Development mode - skipping auth check
+[20:45:48.070] Server  LOG     Development mode - skipping auth check
+[20:45:48.210] Browser LOG     Fetching users from database...
+[20:45:48.211] Browser LOG     Subscription status: CLOSED
+[20:45:48.211] Browser LOG     Fetching users from database...
+[20:45:48.742] Browser LOG     Subscription status: SUBSCRIBED
+[20:45:48.843] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[20:45:48.844] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[20:45:51.442] Server  LOG     Development mode - skipping auth check
+[20:45:51.596] Browser LOG     Subscription status: CLOSED
+[20:45:53.002] Server  LOG     Development mode - skipping auth check
+[20:45:53.152] Browser LOG     Fetching all users from database...
+[20:45:53.152] Browser LOG     Fetching all users from database...
+[20:45:53.640] Browser LOG     Found 8 users in database
+[20:45:54.621] Browser LOG     Combined users: 8
+[20:45:54.621] Browser LOG     Found 8 users in database
+[20:45:54.795] Browser LOG     Combined users: 8
+[20:46:10.306] Server  LOG     Development mode - skipping auth check
+[20:46:16.176] Server  LOG     Development mode - skipping auth check
+[20:46:23.626] Server  LOG     Development mode - skipping auth check
+[20:46:26.292] Server  LOG     Development mode - skipping auth check
+[20:46:27.313] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:46:27.313] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:46:27.313] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:46:27.313] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:46:27.313] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:46:27.313] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:46:27.313] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:46:27.313] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:46:27.313] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:46:27.313] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:46:54.881] Server  LOG     Development mode - skipping auth check
+[20:47:10.282] Server  LOG     Development mode - skipping auth check
+[20:47:10.429] Browser LOG     Fetching users from database...
+[20:47:10.429] Browser LOG     Subscription status: CLOSED
+[20:47:10.429] Browser LOG     Fetching users from database...
+[20:47:10.786] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[20:47:11.010] Browser LOG     Subscription status: SUBSCRIBED
+[20:47:11.114] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[20:50:40.647] Server  LOG      ✓ Compiled in 694ms
+[20:51:08.784] Server  LOG      ✓ Compiled in 355ms
+[20:51:11.419] Server  LOG     Development mode - skipping auth check
+[20:51:11.963] Browser LOG     Subscription status: CLOSED
+[20:51:11.963] Browser LOG     Fetching all users from database...
+[20:51:11.963] Browser LOG     Fetching all users from database...
+[20:51:12.502] Browser LOG     Found 8 users in database
+[20:51:12.609] Browser LOG     Found 8 users in database
+[20:51:12.798] Browser LOG     Combined users: 8
+[20:51:12.992] Browser LOG     Combined users: 8
+[20:51:22.830] Server  LOG     Development mode - skipping auth check
+[20:51:25.870] Server  LOG     Development mode - skipping auth check
+[20:51:28.389] Server  LOG     Development mode - skipping auth check
+[20:51:31.204] Server  LOG     Development mode - skipping auth check
+[20:51:32.198] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:51:32.198] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:51:32.198] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:51:32.198] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:51:32.198] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:51:32.198] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:51:32.198] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:51:32.198] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:51:32.198] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:51:32.198] Browser WARN    The width(-1) and height(-1) of chart should be greater than 0,
+       please check the style of container, or the props width(100%) and height(100%),
+       or add a minWidth(0) or minHeight(undefined) or use aspect(undefined) to control the
+       height and width.
+[20:51:38.190] Server  LOG     Development mode - skipping auth check
+[20:51:38.374] Browser LOG     Fetching users from database...
+[20:51:38.374] Browser LOG     Subscription status: CLOSED
+[20:51:38.375] Browser LOG     Fetching users from database...
+[20:51:38.925] Browser LOG     Subscription status: SUBSCRIBED
+[20:51:38.925] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[20:51:38.925] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[20:51:39.088] Server  LOG     Development mode - skipping auth check
+[20:51:39.239] Browser LOG     Subscription status: CLOSED
+[20:56:20.443] Server  LOG      ✓ Compiled in 4.6s
+[21:01:25.328] Server  LOG      ✓ Compiled in 404ms
+[21:10:39.823] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[21:10:40.513] Browser LOG     Fetching users from database...
+[21:10:40.923] Browser WARN    Join fetch failed, trying simple fetch: Could not find a relationship between 'users' and 'profiles' in the schema cache
+[21:10:41.313] Browser LOG     Subscription status: SUBSCRIBED
+[21:35:39.691] Server  LOG      ✓ Compiled in 1660ms
+[21:35:43.333] Server  LOG     Development mode - skipping auth check
+[21:35:47.930] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./ghana-trotro-admin/app/dashboard/routes/page.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[21:35:49.683] Server  LOG     Development mode - skipping auth check
+[21:36:09.973] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[21:52:03.547] Server  LOG     Development mode - skipping auth check
+[21:52:03.618] Server  LOG      ✓ Compiled in 2.8s
+[21:52:06.848] Server  LOG     Development mode - skipping auth check
+[21:52:06.916] Server  LOG     Development mode - skipping auth check
+[21:52:07.661] Server  LOG     Development mode - skipping auth check

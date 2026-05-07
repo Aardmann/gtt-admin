@@ -1,0 +1,41 @@
+{
+  "version": 3,
+  "middleware": {
+    "/": {
+      "files": [
+        "server/edge/chunks/ghana-trotro-admin_746b71ec._.js",
+        "server/edge/chunks/8e6f2_@supabase_realtime-js_dist_module_92a1712f._.js",
+        "server/edge/chunks/8e6f2_@supabase_storage-js_dist_module_3272320e._.js",
+        "server/edge/chunks/8e6f2_@supabase_auth-js_dist_module_a00146bd._.js",
+        "server/edge/chunks/8e6f2_360e2e7a._.js",
+        "server/edge/chunks/[root-of-the-server]__ee9843fd._.js",
+        "server/edge/chunks/turbopack-ghana-trotro-admin_edge-wrapper_9483c1d0.js"
+      ],
+      "name": "middleware",
+      "page": "/",
+      "matchers": [
+        {
+          "regexp": "^(?:\\/(_next\\/data\\/[^/]{1,}))?\\/dashboard(?:\\/((?:[^\\/#\\?]+?)(?:\\/(?:[^\\/#\\?]+?))*))?(\\\\.json)?[\\/#\\?]?$",
+          "originalSource": "/dashboard/:path*"
+        },
+        {
+          "regexp": "^(?:\\/(_next\\/data\\/[^/]{1,}))?\\/login(\\\\.json)?[\\/#\\?]?$",
+          "originalSource": "/login"
+        }
+      ],
+      "wasm": [],
+      "assets": [],
+      "env": {
+        "__NEXT_BUILD_ID": "development",
+        "NEXT_SERVER_ACTIONS_ENCRYPTION_KEY": "L820rV5HiLjZhFhhv8RmrignOeXPp+DbTm1mMZcU5I8=",
+        "__NEXT_PREVIEW_MODE_ID": "95810c9866259b6272738a9d4a33a56d",
+        "__NEXT_PREVIEW_MODE_ENCRYPTION_KEY": "3f1a72bac4a1845b31d4ac14302734d79a17f5320c1fde3fd56ad7e37ece87e7",
+        "__NEXT_PREVIEW_MODE_SIGNING_KEY": "7782943fb3f9b5ed2eb66ad66bbb6817be43327b747f552b5b7d6196f57f4f8b"
+      }
+    }
+  },
+  "sortedMiddleware": [
+    "/"
+  ],
+  "functions": {}
+}

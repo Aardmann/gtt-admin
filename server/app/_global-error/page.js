@@ -1,0 +1,11 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_global-error/page.js")
+R.c("server/chunks/ssr/[root-of-the-server]__7b7be81a._.js")
+R.c("server/chunks/ssr/ghana-trotro-admin_de6a6ace._.js")
+R.c("server/chunks/ssr/8e6f2_next_dist_5aca12a1._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__04c73837._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__cc42ebc9._.js")
+R.c("server/chunks/ssr/8e6f2_next_dist_cbd4b7cd._.js")
+R.c("server/chunks/ssr/ghana-trotro-admin_app_a463d94a._.js")
+R.c("server/chunks/ssr/ghana-trotro-admin__next-internal_server_app__global-error_page_actions_36219ae3.js")
+R.m(54865)
+module.exports=R.m(54865).exports

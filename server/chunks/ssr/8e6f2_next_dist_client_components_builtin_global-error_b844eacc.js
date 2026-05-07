@@ -1,0 +1,3 @@
+module.exports=[19619,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(23082);a.n(d("[project]/ghana-trotro-admin/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},92800,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(23082);a.n(d("[project]/ghana-trotro-admin/node_modules/next/dist/client/components/builtin/global-error.js"))},77278,a=>{"use strict";a.i(19619);var b=a.i(92800);a.n(b)}];
+
+//# sourceMappingURL=8e6f2_next_dist_client_components_builtin_global-error_b844eacc.js.map
