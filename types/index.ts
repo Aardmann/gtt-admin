@@ -224,7 +224,6 @@ export interface DashboardStats {
   totalStops: number
   activeUsers: number
   pendingRoutes: number
-  rejectedRoutes: number
   todaySearches: number
   notificationsSent: number
   revenueToday: number

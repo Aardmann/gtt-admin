@@ -50,7 +50,7 @@ export function StatsCards({ stats }: StatsCardsProps) {
       <Card
         label="Total Routes"
         value={stats.totalRoutes.toLocaleString()}
-        sub={`${stats.rejectedRoutes ? `${stats.pendingRoutes} pending approval` : ''}`}
+        sub={`${stats.pendingRoutes} pending approval`}
         subColor={stats.pendingRoutes > 0 ? 'text-amber-500' : 'text-gray-400'}
         icon={<FiMap />}
         iconBg="bg-violet-50"

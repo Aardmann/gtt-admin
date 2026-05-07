@@ -337,14 +337,14 @@ export default function UsersPage() {
               <FiRefreshCw className={loading ? 'animate-spin' : ''} />
               <span>Refresh</span>
             </button>
-            <button
+            {/* <button
               onClick={handleExportUsers}
               disabled={filteredUsers.length === 0}
               className="flex items-center space-x-2 px-4 py-2 bg-primary text-white rounded-lg hover:bg-primary-dark disabled:opacity-50"
             >
               <FiDownload />
               <span>Export ({filteredUsers.length})</span>
-            </button>
+            </button> */}
           </div>
         </div>
 

@@ -1,11 +1,14 @@
 {
   "name": "ghana-trotro-admin",
+  "homepage": "https://aardmann.github.io/gtt-admin/",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d .next",
     "lint": "next lint",
     "db:init": "tsx scripts/init-database.ts",
     "db:seed": "tsx scripts/seed-data.ts"
@@ -17,6 +20,7 @@
     "@supabase/supabase-js": "^2.87.1",
     "clsx": "^2.1.1",
     "date-fns": "^4.1.0",
+    "dotenv": "^17.4.2",
     "next": "16.0.10",
     "react": "19.2.1",
     "react-dom": "19.2.1",
@@ -33,6 +37,8 @@
     "@types/react-dom": "^19",
     "autoprefixer": "^10.4.23",
     "babel-plugin-react-compiler": "1.0.0",
+    "baseline-browser-mapping": "^2.10.27",
+    "gh-pages": "^6.3.0",
     "postcss": "^8.5.6",
     "tailwindcss": "^3.4.19",
     "tsx": "^4.21.0",
