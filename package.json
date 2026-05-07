@@ -8,7 +8,8 @@
     "build": "next build",
     "start": "next start",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d .next",
+    "export": "next export",
+    "deploy": "next build && next export && gh-pages -d out",
     "lint": "next lint",
     "db:init": "tsx scripts/init-database.ts",
     "db:seed": "tsx scripts/seed-data.ts"
