@@ -51,9 +51,9 @@ export default function LoginPage() {
 
   const checkIfAdmin = async (email: string): Promise<boolean> => {
     try {
-      // Check admin_users table
+      // Check profiles table
       const { data, error } = await supabase
-        .from('admin_users')
+        .from('users')
         .select('email')
         .eq('email', email)
         .single()
@@ -89,9 +89,7 @@ export default function LoginPage() {
       <div className="bg-white rounded-2xl shadow-xl p-8 w-full max-w-md">
         <div className="text-center mb-8">
           <div className="inline-flex items-center justify-center w-16 h-16 bg-primary/10 rounded-full mb-4">
-            <svg className="w-8 h-8 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
-            </svg>
+            <img src="./favicon.ico" alt="logo" className="w-10 h-10" />
           </div>
           <h1 className="text-3xl font-bold text-text mb-2">Ghana Trotro Admin</h1>
           <p className="text-text-light">Administrator access only</p>

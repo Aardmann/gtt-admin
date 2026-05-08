@@ -15,7 +15,7 @@ async function testConnection() {
   try {
     // Test 1: Basic connection
     console.log('\n📡 Testing connection...')
-    const { data, error } = await supabase.from('admin_users').select('count').limit(1)
+    const { data, error } = await supabase.from('users').select('count').limit(1)
     
     if (error) {
       console.error('❌ Connection failed:', error.message)
@@ -23,7 +23,7 @@ async function testConnection() {
       
       // Check if table exists
       if (error.code === 'PGRST116') {
-        console.log('ℹ️  Table might not exist. Please run the SQL schema first.')
+        console.log('Table might not exist. Please run the SQL schema first.')
       }
     } else {
       console.log('✅ Connected successfully!')

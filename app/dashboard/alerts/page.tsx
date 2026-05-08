@@ -93,8 +93,8 @@ export default function AlertsPage() {
   if (loading) {
     return (
       <div className="space-y-6">
-        <Header title="Alerts & Monitoring" />
-        <Loader message="Loading alerts..." />
+        <Header title="Alerts & Reports" />
+        <Loader message="Loading..." />
       </div>
     )
   }
@@ -120,7 +120,7 @@ export default function AlertsPage() {
   return (
     <div className="space-y-6">
       <Header
-        title="Alerts & Monitoring"
+        title="Alerts & Reports"
         subtitle="Monitor system alerts, route submissions, user activity, and route reports"
       />
 

@@ -4,8 +4,8 @@ const nextConfig: NextConfig = {
   /* config options here */
   //output: 'export',
   reactCompiler: true,
-  basePath: '/ghana-trotro-admin',
-  assetPrefix: '/ghana-trotro-admin/',
+  //basePath: '/ghana-trotro-admin',
+  //assetPrefix: '/ghana-trotro-admin/',
 };
 
 export default nextConfig;
